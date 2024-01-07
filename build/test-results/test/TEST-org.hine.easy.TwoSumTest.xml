@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hine.easy.TwoSumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-07T15:13:04" hostname="LAPTOP-4LU2DJME" time="0.048">
+  <properties/>
+  <testcase name="testTwoSum()" classname="org.hine.easy.TwoSumTest" time="0.048"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
