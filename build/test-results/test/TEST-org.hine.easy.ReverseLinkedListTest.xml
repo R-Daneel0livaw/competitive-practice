@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hine.easy.ReverseLinkedListTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-26T00:46:34" hostname="LAPTOP-4LU2DJME" time="0.02">
+  <properties/>
+  <testcase name="testReverseLinkedList()" classname="org.hine.easy.ReverseLinkedListTest" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
