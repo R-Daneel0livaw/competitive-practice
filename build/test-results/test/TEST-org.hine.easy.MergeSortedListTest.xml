@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hine.easy.MergeSortedListTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-26T00:12:12" hostname="LAPTOP-4LU2DJME" time="0.015">
+  <properties/>
+  <testcase name="testMergeSortedList()" classname="org.hine.easy.MergeSortedListTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
