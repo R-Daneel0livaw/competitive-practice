@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.hine.easy.ContainsDuplicateTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-24T22:45:32" hostname="LAPTOP-4LU2DJME" time="0.016">
-  <properties/>
-  <testcase name="testContainsDuplicate()" classname="org.hine.easy.ContainsDuplicateTest" time="0.016"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
