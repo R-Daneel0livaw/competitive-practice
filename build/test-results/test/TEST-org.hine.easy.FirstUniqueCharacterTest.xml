@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hine.easy.FirstUniqueCharacterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-25T20:12:13" hostname="LAPTOP-4LU2DJME" time="0.018">
+  <properties/>
+  <testcase name="testFirstUniqueCharacter()" classname="org.hine.easy.FirstUniqueCharacterTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
