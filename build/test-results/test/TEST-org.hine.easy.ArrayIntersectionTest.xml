@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hine.easy.ArrayIntersectionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-25T20:39:22" hostname="LAPTOP-4LU2DJME" time="0.029">
+  <properties/>
+  <testcase name="testArrayIntersectionTest()" classname="org.hine.easy.ArrayIntersectionTest" time="0.029"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
