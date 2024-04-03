@@ -2,3 +2,6 @@
 .idea
 *.sw
 build/
+build/*
+!build/build.xml
+**/build
