@@ -1,3 +1,4 @@
 .gradle
 .idea
-*.swp
+*.sw
+build/
