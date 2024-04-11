@@ -20,7 +20,10 @@ public class HighFive {
         for(int id : allScores.keySet()) {
             var sum = 0;
             for (int i = 0; i < 5; i++) {
-                sum += allScores.get(id).poll();
+                Queue<Integer> scores = allScores.get(id);
+                if (scores != null && !scores.isEmpty()) {
+                    sum += scores.poll();
+                }
             }
             solution.add(new int[] {id, sum / 5});
         }
