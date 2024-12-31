@@ -1,6 +1,7 @@
 package org.hine.easy;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class MergeSimilarItems {
 
@@ -9,10 +10,6 @@ public class MergeSimilarItems {
         Arrays.stream(items1).forEach(it -> cnt.merge(it[0], it[1], Integer::sum));
         Arrays.stream(items2).forEach(it -> cnt.merge(it[0], it[1], Integer::sum));
 
-        List<List<Integer>> ret = new ArrayList<>();
-        for(var e : cnt.entrySet()) {
-            ret.add(Arrays.asList(e.getKey(), e.getValue()));
-        }
-        return ret;
+        return cnt.entrySet().stream().map(e -> Arrays.asList(e.getKey(), e.getValue())).collect(Collectors.toList());
     }
 }
