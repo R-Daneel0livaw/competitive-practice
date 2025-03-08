@@ -1,24 +1,28 @@
 package org.hine.easy;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
 public class MinCostClimbingStairs {
 
-    private Map<Integer, Integer> memo = new HashMap<>();
+    int[] memo;
 
     public int minCostClimbingStairs(int[] cost) {
-        return minCost(cost.length, cost);
+        memo = new int[cost.length];
+        Arrays.fill(memo, -1);
+        return Math.min(dfs(cost, 0), dfs(cost, 1));
     }
 
-    private int minCost(int i, int[] cost) {
-        if (i <= 1) return 0;
-
-        if (memo.containsKey(i)) return memo.get(i);
-
-        var downOne = cost[i - 1] + minCost(i - 1, cost);
-        var downTwo = cost[i - 2] + minCost(i - 2, cost);
-        memo.put(i, Math.min(downOne, downTwo));
-        return memo.get(i);
+    private int dfs(int[] cost, int i) {
+        if (i >= cost.length) {
+            return 0;
+        }
+        if (memo[i] != -1) {
+            return memo[i];
+        }
+        memo[i] = cost[i] + Math.min(dfs(cost, i + 1),
+                dfs(cost, i + 2));
+        return memo[i];
     }
 }
