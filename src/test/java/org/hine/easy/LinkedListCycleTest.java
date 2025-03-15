@@ -1,5 +1,6 @@
 package org.hine.easy;
 
+import org.hine.easy.linkedList.LinkedListCycle;
 import org.hine.easy.util.ListNode;
 import org.junit.jupiter.api.Test;
 

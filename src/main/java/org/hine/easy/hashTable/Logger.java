@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.hashTable;
 
 import java.util.HashMap;
 import java.util.Map;

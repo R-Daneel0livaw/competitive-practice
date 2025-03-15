@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.sorting;
 
 public class MaxProductPairs {
 

@@ -1,5 +1,6 @@
 package org.hine.easy;
 
+import org.hine.easy.matrix.LuckyNumbersMatrix;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

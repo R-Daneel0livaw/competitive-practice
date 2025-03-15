@@ -1,5 +1,6 @@
 package org.hine.easy;
 
+import org.hine.easy.hashTable.MajorityElement;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
