@@ -1,5 +1,6 @@
 package org.hine.easy;
 
+import org.hine.easy.string.FizzBuzz;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;

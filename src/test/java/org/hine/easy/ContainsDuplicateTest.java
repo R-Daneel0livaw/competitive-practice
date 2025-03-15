@@ -1,5 +1,6 @@
 package org.hine.easy;
 
+import org.hine.easy.array.ContainsDuplicate;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -1,5 +1,6 @@
 package org.hine.easy;
 
+import org.hine.easy.math.FinalArrayState;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;

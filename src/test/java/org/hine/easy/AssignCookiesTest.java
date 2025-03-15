@@ -1,5 +1,6 @@
 package org.hine.easy;
 
+import org.hine.easy.sorting.AssignCookies;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
