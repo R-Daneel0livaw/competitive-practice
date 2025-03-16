@@ -1,6 +1,6 @@
 package org.hine.easy;
 
-import org.junit.jupiter.api.Assertions;
+import org.hine.easy.set.MergeSimilarItems;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;

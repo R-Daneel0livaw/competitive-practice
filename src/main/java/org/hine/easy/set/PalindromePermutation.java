@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.set;
 
 import java.util.HashSet;
 import java.util.Set;

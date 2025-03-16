@@ -1,5 +1,6 @@
 package org.hine.easy;
 
+import org.hine.easy.array.PascalsTriangle;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

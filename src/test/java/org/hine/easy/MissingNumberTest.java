@@ -1,5 +1,6 @@
 package org.hine.easy;
 
+import org.hine.easy.sorting.MissingNumber;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

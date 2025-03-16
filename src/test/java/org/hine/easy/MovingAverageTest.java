@@ -1,5 +1,6 @@
 package org.hine.easy;
 
+import org.hine.easy.queue.MovingAverage;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

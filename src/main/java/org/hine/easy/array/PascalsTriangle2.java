@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.array;
 
 import java.util.ArrayList;
 import java.util.List;

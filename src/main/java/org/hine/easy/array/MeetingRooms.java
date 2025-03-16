@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.array;
 
 import java.util.Arrays;
 import java.util.Comparator;

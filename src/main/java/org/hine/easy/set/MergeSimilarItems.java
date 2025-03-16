@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.set;
 
 import java.util.*;
 import java.util.stream.Collectors;

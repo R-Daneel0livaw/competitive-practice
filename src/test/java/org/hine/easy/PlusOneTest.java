@@ -1,5 +1,6 @@
 package org.hine.easy;
 
+import org.hine.easy.array.PlusOne;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
