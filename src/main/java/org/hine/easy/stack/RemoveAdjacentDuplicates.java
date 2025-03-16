@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.stack;
 
 public class RemoveAdjacentDuplicates {
     public String removeAdjacentDuplicates(String s) {
