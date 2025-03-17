@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.stack;
 
 import java.util.Map;
 import java.util.Stack;

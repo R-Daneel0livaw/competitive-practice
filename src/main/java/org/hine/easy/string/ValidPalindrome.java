@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.string;
 
 public class ValidPalindrome {
 

@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.matrix;
 
 public class TransposeMatrix {
 

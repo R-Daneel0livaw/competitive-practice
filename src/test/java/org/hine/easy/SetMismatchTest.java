@@ -1,5 +1,6 @@
 package org.hine.easy;
 
+import org.hine.easy.hashTable.SetMismatch;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;

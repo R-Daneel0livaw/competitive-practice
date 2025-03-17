@@ -1,5 +1,6 @@
 package org.hine.easy;
 
+import org.hine.easy.tree.SameTree;
 import org.hine.easy.util.TreeNode;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
