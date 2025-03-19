@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.doublyLinkedList;
 
 import org.hine.easy.doublyLinkedList.DoublyLinkedListToArray;
 import org.hine.easy.util.DoublyListNode;
