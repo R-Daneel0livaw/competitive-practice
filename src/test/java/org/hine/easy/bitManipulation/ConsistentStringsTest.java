@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.bitManipulation;
 
 import org.hine.easy.bitManipulation.ConsistentStrings;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.bitManipulation;
 
 import org.hine.easy.bitManipulation.ReverseBits;
 import org.junit.jupiter.api.Test;
