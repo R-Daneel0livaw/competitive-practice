@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.graph;
 
 import org.hine.easy.graph.FindPath;
 import org.junit.jupiter.api.Test;

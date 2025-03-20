@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.hashTable;
 
 import org.hine.easy.hashTable.SetMismatch;
 import org.junit.jupiter.api.Test;

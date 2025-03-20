@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.hashTable;
 
 import org.hine.easy.hashTable.UniqueOccurrences;
 import org.junit.jupiter.api.Test;

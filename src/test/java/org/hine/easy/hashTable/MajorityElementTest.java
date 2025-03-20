@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.hashTable;
 
 import org.hine.easy.hashTable.MajorityElement;
 import org.junit.jupiter.api.Test;
