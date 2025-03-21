@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.math;
 
 import org.hine.easy.math.RectangleOverlap;
 import org.junit.jupiter.api.Test;

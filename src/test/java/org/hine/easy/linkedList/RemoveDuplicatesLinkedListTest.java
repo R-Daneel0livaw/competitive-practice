@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.linkedList;
 
 import org.hine.easy.linkedList.RemoveDuplicatesLinkedList;
 import org.hine.easy.util.ListNode;
