@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.set;
 
 import org.hine.easy.set.MergeSimilarItems;
 import org.junit.jupiter.api.Test;
