@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.queue;
 
 import org.hine.easy.queue.BuyTickets;
 import org.junit.jupiter.api.Test;

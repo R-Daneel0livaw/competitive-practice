@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.matrix;
 
 import org.hine.easy.matrix.FindMissingAndRepeated;
 import org.junit.jupiter.api.Test;
