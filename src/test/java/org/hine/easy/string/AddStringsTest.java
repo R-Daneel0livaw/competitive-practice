@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.string;
 
 import org.hine.easy.string.AddStrings;
 import org.junit.jupiter.api.Test;
