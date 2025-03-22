@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.tree;
 
 import org.hine.easy.tree.RangeSumBST;
 import org.hine.easy.util.TreeNode;
