@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.sorting;
 
 import org.hine.easy.sorting.SortedSquares;
 import org.junit.jupiter.api.Test;

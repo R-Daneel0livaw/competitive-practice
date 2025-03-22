@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.stack;
 
 import org.hine.easy.stack.BinaryTreeInorderTraversal;
 import org.hine.easy.util.TreeNode;

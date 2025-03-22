@@ -1,4 +1,4 @@
-package org.hine.easy;
+package org.hine.easy.stack;
 
 import org.hine.easy.stack.RemoveAdjacentDuplicates;
 import org.junit.jupiter.api.Test;
