@@ -10,11 +10,11 @@ public class NextGreaterElement {
         Stack<Integer> stack = new Stack<>();
         Map<Integer, Integer> map = new HashMap<>();
 
-        for (int i = 0; i < nums2.length; i++) {
-            while (!stack.isEmpty() && nums2[i] > stack.peek()) {
-                map.put(stack.pop(), nums2[i]);
+        for (int j : nums2) {
+            while (!stack.isEmpty() && j > stack.peek()) {
+                map.put(stack.pop(), j);
             }
-            stack.push(nums2[i]);
+            stack.push(j);
         }
 
         while (!stack.isEmpty()) {
