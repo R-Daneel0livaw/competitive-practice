@@ -5,8 +5,7 @@ import java.util.*;
 public class MostCommonWord {
 
     public String mostCommonWord(String paragraph, String[] banned) {
-        Set<String> bannedWords = new HashSet<>();
-        bannedWords.addAll(Arrays.asList(banned));
+        Set<String> bannedWords = new HashSet<>(Arrays.asList(banned));
 
         var ans = "";
         var maxCount = 0;
